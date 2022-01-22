@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "description": "a",
+            "birth date": "a",
+            "Gender": "a",
+            "Hobbies": "a",
+            "Username": "s",
+            "Password": "Ss@1"
+        },
+        {
+            "description": "e",
+            "birth date": "",
+            "Gender": "es",
+            "Hobbies": "s",
+            "Username": "sunita",
+            "Password": "Aa@1"
+        },
+        {
+            "description": "student",
+            "birth date": "10-2-2002",
+            "Gender": "female",
+            "Hobbies": "dance",
+            "Username": "rekha",
+            "Password": "Rekha@12"
+        }
+    ]
+}
